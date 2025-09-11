@@ -7,4 +7,4 @@ To check the memory address of a variable:
 * ```python
   print(hex(id(the variable's name)[Index number])) 
   ```
-  * Index number: Specically indexes a character in the variable/string
+  * Index number: Specically indexes a character in the variable/string (Optional to include)
