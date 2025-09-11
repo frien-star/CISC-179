@@ -1,5 +1,4 @@
-  ### Semicolons
-* Python does not include semicolons at the end of their lines.
+
 ### Data Memory
 Variables are stored in Nemory addresses. Variables with the same value will refer to the original address. Variables rewritten with a new value will not overwrite the original address it was stored in- a new address is written instead.   
 * Memory addresses are usually outputted as hexadecimal.
